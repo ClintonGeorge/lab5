@@ -23,7 +23,7 @@ h3 {
 	text-align: left;
 	margin-left: 100px; 
 	margin-right: 100px;
-	table-layout: fixed;
+	table-layout: auto;
 }
  .firsttablerow {
 	border: 1px solid #FFFFFF;
@@ -32,15 +32,12 @@ h3 {
 	background-color: #000000;
 	font-weight: bold;
 	 padding: 5.0em;
-	 padding-left: 25px;
-	 padding-right: 25px;
+	
 }
  td {
 	border: 1px solid #FFFFFF;
 	font-family: 'Bangers', cursive;
 	color: #FFFFFF;
-	 padding-left: 25px;
-	 padding-right: 25px;
 	background-color: #000000;
 }
  th {
