@@ -17,13 +17,13 @@ h3 {
 }
  .maintable {
 	border: 5px solid #000000;
-	padding: 0px;
+	padding: 5px;
 	width: 75%;
 	height: 75%;
 	text-align: left;
 	margin-left: 100px; 
 	margin-right: 100px;
-	table-layout: fixed;
+	table-layout: auto;
 }
  .firsttablerow {
 	border: 1px solid #FFFFFF;
