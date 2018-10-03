@@ -18,12 +18,12 @@ h3 {
  .maintable {
 	border: 1.0em solid #000000;
 	padding: 5.0em;
-	width: 90%;
-	height: 90%;
+	width: 100%;
+	height: 100%;
 	text-align: left;
 	margin-left: 100px; 
 	margin-right: 100px;
-	table-layout: auto;
+	table-layout: fixed;
 }
  .firsttablerow {
 	border: 1px solid #FFFFFF;
