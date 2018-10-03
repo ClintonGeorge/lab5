@@ -1,0 +1,54 @@
+body {
+	text-align:center;
+	background-image:url('galaxy.jpg');
+	background-size:cover;
+}
+ h1 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 2.5em;
+	color: #ffffff;
+	text-align: center;
+}
+h3 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 2.0em;
+	color: #ffffff;
+	text-align: center;
+}
+ .maintable {
+	border: 1px solid #000000;
+	padding: 5px;
+	width: 75%;
+	height: 75%;
+	text-align: left;
+	margin-left: 100px; 
+	margin-right: 100px;
+	table-layout: fixed;
+}
+ .firsttablerow {
+	border: 1px solid #FFFFFF;
+	font-family: 'Bangers', cursive;
+	color: #FFFFFF;
+	background-color: #000000;
+	font-weight: bold;
+}
+ td {
+	border: 1px solid #FFFFFF;
+	font-family: 'Bangers', cursive;
+	color: #FFFFFF;
+	background-color: #000000;
+}
+ th {
+	border: 1px solid #FFFFFF;
+	font-family: 'Bangers', cursive;
+	font-size: 1.5em;
+	color: #ffffff;
+	background-color: #000000;
+	font-weight: bold;
+}
+ .planets {
+	background-color: blue;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 1.5em;
+} 
